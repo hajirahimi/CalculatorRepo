@@ -6,3 +6,11 @@ E:\testing\Calculator\bin\Debug\Calculator.exe
 E:\testing\Calculator\bin\Debug\Calculator.pdb
 E:\testing\Calculator\obj\Debug\Calculator.exe
 E:\testing\Calculator\obj\Debug\Calculator.pdb
+D:\GitHub\CalculatorRepo\bin\Debug\Calculator.exe.config
+D:\GitHub\CalculatorRepo\bin\Debug\Calculator.exe
+D:\GitHub\CalculatorRepo\bin\Debug\Calculator.pdb
+D:\GitHub\CalculatorRepo\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\GitHub\CalculatorRepo\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\CalculatorRepo\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculatorRepo\obj\Debug\Calculator.exe
+D:\GitHub\CalculatorRepo\obj\Debug\Calculator.pdb
