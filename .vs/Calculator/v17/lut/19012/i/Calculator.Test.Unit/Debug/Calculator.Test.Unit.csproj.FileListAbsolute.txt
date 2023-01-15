@@ -1,0 +1,9 @@
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\b\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\b\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\b\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\b\Calculator.Test.Unit\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\b\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\i\Calculator.Test.Unit\Debug\Calculator.Test.Unit.csproj.AssemblyReference.cache
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\i\Calculator.Test.Unit\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\i\Calculator.Test.Unit\Debug\Calculator.Test.Unit.csproj.CopyComplete
+D:\GitHub\CalculatorRepo\.vs\Calculator\v17\lut\0\i\Calculator.Test.Unit\Debug\Calculator.Test.Unit.dll

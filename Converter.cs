@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    internal class Converter
+    public class Converter
     {
         public static double ConverterToDouble(string input)
         {
             bool successfullConversion = double.TryParse(input, out double number);
             if (!successfullConversion)
             {
-                throw new Exception(" Please enter a valid Number");
+                throw new ArgumentException(" Please enter a valid Number");
             }
             return number;
         }
